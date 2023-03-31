@@ -112,7 +112,7 @@ START = f"""
 """
 DEV_OP = [
     [
-        InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"t.me/{LUCIFER_IS_BOT}"),
+        InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"t.me/{LUCIFER_Is_Star}"),
         InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
@@ -125,8 +125,8 @@ DEV_OP = [
         InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
-        InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", callback_data="ABOUT"),
+        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="Land lega vro"),
+        InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", callback_data="Lucifer"),
     ],
 ]
 PNG_BTN = [
